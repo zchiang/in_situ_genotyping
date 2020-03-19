@@ -1,0 +1,6 @@
+cycle	nd2	t
+1	ITALYsbsRound1001.nd2	1
+2	SolidRound2.nd2	1
+3	italy_solid_round3.nd2	1
+4	Italy_solid_round4.nd2	1
+draq5	Italy_Draq5.nd2	1

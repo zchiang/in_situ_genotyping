@@ -1,0 +1,16 @@
+iLock_5a	678
+iLock_5b	430
+iLock_5c	765
+iLock_5d	609
+iLock_7a	5459
+iLock_7b	4572
+iLock_7c	3543
+iLock_7d	4405
+iLock_11a	811
+iLock_11b	734
+iLock_11c	632
+iLock_11d	646
+iLock_12a	7086
+iLock_12b	7226
+iLock_12c	6684
+iLock_12d	6398

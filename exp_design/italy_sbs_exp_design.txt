@@ -1,0 +1,6 @@
+cycle	nd2	t
+1	Italy_sbs_reseqround1.nd2	1
+2	ItalySBSRound2.nd2	1
+3	italy_SBS_round3.nd2	1
+4	Italy_sbs_round4.nd2	1
+draq5	Italy_sbs_draq5.nd2	1
