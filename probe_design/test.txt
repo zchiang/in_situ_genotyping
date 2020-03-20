@@ -1,0 +1,1 @@
+chr1	202746156	KDM5B	12	-	2377	2796	G	A	ACA	ATA	AC->dG/pdT(1):AT->dA/pdT(1)	CA->dT/pdG(0):TA->dT/pdA(1)	5
